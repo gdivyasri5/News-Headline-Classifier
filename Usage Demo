@@ -1,0 +1,8 @@
+--- 📰 NEWS HEADLINE CLASSIFIER ---
+Type a headline to see its category (or type 'quit' to exit)
+
+📝 Enter Headline: Messi scores a hat-trick for Argentina
+👉 Predicted Category: Sports
+
+📝 Enter Headline: Apple releases new AI features for iPhone
+👉 Predicted Category: Tech
